@@ -14,7 +14,8 @@ This makes it easy to operate on large and complex data spaces, and streamlines 
 Finally, a well-defined data space makes data collectively more accessible.
 
 <p align="center">
-<img src="{{ site.url }}//assets/signac_data_space.png" width="450">
+<img src="{{ site.url }}/assets/signac-logo.png" height="200">
+<img src="{{ site.url }}//assets/signac_data_space.png" height="200">
 </p>
 
 The package is documented on [readthedocs][2] and maintained in a [bitbucket repository][1].
