@@ -6,24 +6,22 @@ permalink: /software/
 
 <h1><b>signac</b></h1>
 
-I am the lead developer of the data management framework **signac**.
-It is designed to assist users in managing large and heterogenous data spaces.
+I am the lead developer of the data management framework [**signac**][1].
+The signac framework supports researchers in managing project-related data by providing a well-defined, indexable layout for storing file-based data and metadata directly on the filesystem.
+In this way, signac enables efficient data access through an ad hoc database-like interface without the need for running a server.
 
-The signac framework provides a simple and robust data model to create well-defined data spaces.
-This makes it easy to operate on large and complex data spaces, and streamlines workflow development.
-Finally, a well-defined data space makes data collectively more accessible.
+The distributed file-based storage model is well-suited to high-performance computing applications.
+Additionally, signac aids in defining and executing workflows for operating on these managed data spaces both on local workstations and on leadership-class supercomputers.
 
 <p align="center">
 <img src="{{ site.url }}/assets/signac-logo.png" height="200">
-<img src="{{ site.url }}//assets/signac_data_space.png" height="200">
+<img src="{{ site.url }}//assets/overview-core+flow.png" height="200">
 </p>
 
-The package is documented on [readthedocs][2] and maintained in a [bitbucket repository][1].
-A set of [jupyter notebooks][3] serve as examples and tutorial.
+For more information visit the [website][1] or the [documentation][2].
 
-[1]: https://bitbucket.org/glotzer/signac
-[2]: https://signac.readthedocs.io
-[3]: http://www.mybinder.org/repo/csadorf/signac-examples
+[1]: http://www.signac.io
+[2]: https://signac-docs.readthedocs.io
 
 # HOOMD-blue
 
@@ -45,6 +43,7 @@ For more information, checkout out the [HOOMD-blue homepage][5]!
 
 # Other
 
-I am the lead developer of *glotzformats*, a collection of parsers and writers for formats used within the Glotzer Group.
+I have contributed to [freud](https://freud.readthedocs.io/en/latest/), an analysis tool for particle simulation data.
 
-I have contributed to *freud*, an analysis tool for particle simulation data.
+I am the *former* lead developer of *glotzformats*, a collection of parsers and writers for formats used within the Glotzer Group.
+

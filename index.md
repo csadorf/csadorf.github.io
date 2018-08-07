@@ -5,12 +5,8 @@
 layout: default
 ---
 <img style="float:right;padding:10px;" src="{{ site.url }}/assets/csadorf.jpg">
-Hi!
-I am Carl Simon Adorf, a Ph.D. Candidate in the Department of Chemical Engineering at the **University of Michigan**, Ann Arbor.
-My research under Sharon C. Glotzer is driven by the goal to create *soft matter materials by design*.
+Hi! I am a Ph.D. Candidate in the Department of Chemical Engineering at the **University of Michigan**, Ann Arbor.
+The research I conduct under [Sharon C. Glotzer](https://glotzerlab.engin.umich.edu/home), is focused on data-driven design of novel *soft matter materials*.
 
-As part of my research, I work as a soft engineer, contributing to the general-purpose particle simulation toolkit **HOOMD-blue**.
-I am the lead-developer of the open-source data management framework **signac**, supporting the scientific community in the application of best-practices in scientific computing.
-
-I am lucky enough to live in the beautiful town of Ann Arbor, which I often explore via biking or running.
-You will also find me enjoying the soundtrack of Hamilton or techno music in my spare time.
+As part of my research, I am the lead-developer of the open-source data management framework **[signac](http://www.signac.io)**, supporting the scientific community in the application of best-practices in scientific computing.
+As a contributor to the general-purpose particle simulation toolkit **[HOOMD-Blue](https://glotzerlab.engin.umich.edu/hoomd-blue)**, I strive to make **signac** highly integrable with compute-intensive simulation workflows on leadership-class supercomputers.
