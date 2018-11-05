@@ -20,8 +20,8 @@ Additionally, signac aids in defining and executing workflows for operating on t
 
 For more information visit the [website][1] or the [documentation][2].
 
-[1]: http://www.signac.io
-[2]: https://signac-docs.readthedocs.io
+[1]: https://signac.io
+[2]: https://docs.signac.io
 
 # HOOMD-blue
 

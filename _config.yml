@@ -27,6 +27,11 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+header_pages:
+  - cv.md
+  - research.md
+  - software.md
+  - outreach.md
 exclude:
   - Gemfile
   - Gemfile.lock
