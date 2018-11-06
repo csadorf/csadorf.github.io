@@ -22,11 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: csadorf
 github_username:  csadorf
 
-analytics:
-  provider: "google-universal"
-  google:
-    tracking_id: "UA-84663375-2"
-
+google_analytics: "UA-84663375-2"
 
 # Build settings
 markdown: kramdown
