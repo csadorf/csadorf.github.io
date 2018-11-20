@@ -15,7 +15,7 @@ Additionally, signac aids in defining and executing workflows for operating on t
 
 <p align="center">
 <img src="{{ site.url }}/assets/signac-logo.png" height="200">
-<img src="{{ site.url }}//assets/overview-core+flow.png" height="200">
+<img src="{{ site.url }}/assets/overview-core+flow.png" height="200">
 </p>
 
 For more information visit the [website][1] or the [documentation][2].
